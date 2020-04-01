@@ -2,6 +2,7 @@
 
 ## Tools 🔧
 
+* Ruby 💎♦️
 * Sinatra 🎩
 * Sinatra Basic Auth
 * Docker 🐳
